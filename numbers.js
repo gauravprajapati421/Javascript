@@ -12,3 +12,5 @@ const otherNumber = 123.44
 console.log(balance.toPrecision(1));
 
 
+const hundred = 10000
+console.log(hundred);
