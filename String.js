@@ -14,5 +14,4 @@ console.log(anotherString);
 const newStringOne = "gauraav"
 console.log(newStringOne);
 console.log(newStringOne.trim);
-
-console.log(gameName.split('_'));
+ 
