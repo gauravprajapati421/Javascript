@@ -6,7 +6,7 @@ console.log("gaurav");
 const gameName = new String("GAURAV")
 
 const newString = gameName.subtracting(0,4)
-console.log(newString);
+console.log(newString);zx
 
 const anotherString = gameName.slice(-9,2)
 console.log(anotherString);
